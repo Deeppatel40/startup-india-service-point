@@ -1,19 +1,6 @@
 [
   {
-    "id": "devfolio-0-1791206919992",
-    "title": "sudo Hacktober",
-    "desc": "Hackathon",
-    "date": "Check website for dates",
-    "mode": "Online",
-    "location": "India",
-    "sectorTags": [
-      "Technology"
-    ],
-    "organiser": "Devfolio",
-    "link": "https://sudo-hacktober.devfolio.co/"
-  },
-  {
-    "id": "devfolio-1-1791206919992",
+    "id": "devfolio-0-1791290442901",
     "title": "Q-HACK INDIA 2026",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -26,7 +13,7 @@
     "link": "https://qhack-india.devfolio.co/"
   },
   {
-    "id": "devfolio-2-1791206919993",
+    "id": "devfolio-1-1791290442902",
     "title": "Wild Bugs",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -39,7 +26,7 @@
     "link": "https://wild-bugs.devfolio.co/"
   },
   {
-    "id": "devfolio-3-1791206919993",
+    "id": "devfolio-2-1791290442903",
     "title": "CODEARAMBH 2.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -52,7 +39,7 @@
     "link": "https://codearambh.devfolio.co/"
   },
   {
-    "id": "devfolio-4-1791206919994",
+    "id": "devfolio-3-1791290442903",
     "title": "Winter of Code 2026",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -65,7 +52,7 @@
     "link": "https://winter-of-code-4.devfolio.co/"
   },
   {
-    "id": "devfolio-5-1791206919994",
+    "id": "devfolio-4-1791290442903",
     "title": "CodeStorm 2026: FutureForge",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -78,7 +65,7 @@
     "link": "https://codestorm-futureforge.devfolio.co/"
   },
   {
-    "id": "devfolio-6-1791206919994",
+    "id": "devfolio-5-1791290442904",
     "title": "BIOS V2",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -91,7 +78,7 @@
     "link": "https://biosv2.devfolio.co/"
   },
   {
-    "id": "devfolio-7-1791206919995",
+    "id": "devfolio-6-1791290442904",
     "title": "Hack On Hills 8.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -104,7 +91,7 @@
     "link": "https://hackonhills8.devfolio.co/"
   },
   {
-    "id": "devfolio-8-1791206919995",
+    "id": "devfolio-7-1791290442904",
     "title": "Srijan Setu",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -117,7 +104,7 @@
     "link": "https://srijan-setu.devfolio.co/"
   },
   {
-    "id": "devfolio-9-1791206919995",
+    "id": "devfolio-8-1791290442905",
     "title": "HACKER HOUSE GOA 2026",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -130,7 +117,7 @@
     "link": "https://hacker-house-goa-2026.devfolio.co/"
   },
   {
-    "id": "devfolio-10-1791206919996",
+    "id": "devfolio-9-1791290442905",
     "title": "Innosprint2.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -143,7 +130,7 @@
     "link": "https://innosprint-3.devfolio.co/"
   },
   {
-    "id": "devfolio-11-1791206919996",
+    "id": "devfolio-10-1791290442906",
     "title": "TUM Blockchain & AI Hackathon",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -156,7 +143,7 @@
     "link": "https://tum.devfolio.co/"
   },
   {
-    "id": "devfolio-12-1791206920003",
+    "id": "devfolio-11-1791290442906",
     "title": "Hacknauts 2.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -169,7 +156,7 @@
     "link": "https://hacknauts26.devfolio.co/"
   },
   {
-    "id": "devfolio-13-1791206920003",
+    "id": "devfolio-12-1791290442907",
     "title": "hackodisha-6.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -182,7 +169,7 @@
     "link": "https://hackodisha-6a.devfolio.co/"
   },
   {
-    "id": "devfolio-14-1791206920003",
+    "id": "devfolio-13-1791290442907",
     "title": "GeNarrative Clash",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -195,7 +182,7 @@
     "link": "https://genarrative-clash.devfolio.co/"
   },
   {
-    "id": "devfolio-15-1791206920004",
+    "id": "devfolio-14-1791290442908",
     "title": "haxfinity",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -208,7 +195,7 @@
     "link": "https://haxfinity.devfolio.co/"
   },
   {
-    "id": "devfolio-16-1791206920004",
+    "id": "devfolio-15-1791290442908",
     "title": "DevNexus 2.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -221,7 +208,7 @@
     "link": "https://devnexus2.devfolio.co/"
   },
   {
-    "id": "devfolio-17-1791206920004",
+    "id": "devfolio-16-1791290442909",
     "title": "HACK WITH GDG S4",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -234,7 +221,20 @@
     "link": "https://hack-with-gdg-s4.devfolio.co/"
   },
   {
-    "id": "devfolio-18-1791206920005",
+    "id": "devfolio-17-1791290442910",
+    "title": "BOSS Battle",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://boss-battle.devfolio.co/"
+  },
+  {
+    "id": "devfolio-18-1791290442910",
     "title": "ALGOTHON'26",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -247,7 +247,7 @@
     "link": "https://algothon.devfolio.co/"
   },
   {
-    "id": "devfolio-19-1791206920005",
+    "id": "devfolio-19-1791290442911",
     "title": "Codeutsava X.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -260,7 +260,7 @@
     "link": "https://codeutsava-x.devfolio.co/"
   },
   {
-    "id": "devfolio-20-1791206920006",
+    "id": "devfolio-20-1791290442916",
     "title": "HackSpire'26",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -271,18 +271,5 @@
     ],
     "organiser": "Devfolio",
     "link": "https://hackspire26.devfolio.co/"
-  },
-  {
-    "id": "devfolio-21-1791206920006",
-    "title": "Grand Innovation Challenge",
-    "desc": "Hackathon",
-    "date": "Check website for dates",
-    "mode": "Online",
-    "location": "India",
-    "sectorTags": [
-      "Technology"
-    ],
-    "organiser": "Devfolio",
-    "link": "https://grand-innovation-challenge.devfolio.co/"
   }
 ]
