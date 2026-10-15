@@ -1,15 +1,327 @@
 [
   {
-    "id": "placeholder",
-    "title": "Sample Hackathon",
-    "desc": "This is a placeholder entry because no hackathons were found during scraping.",
-    "date": "2026-10-14",
+    "id": "devfolio-0-1792061235801",
+    "title": "Hack On Hills 8.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
     "mode": "Online",
     "location": "India",
     "sectorTags": [
       "Technology"
     ],
-    "organiser": "System",
-    "link": "https://devfolio.co/hackathons"
+    "organiser": "Devfolio",
+    "link": "https://hackonhills8.devfolio.co/"
+  },
+  {
+    "id": "devfolio-1-1792061235802",
+    "title": "BIOS V2",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://biosv2.devfolio.co/"
+  },
+  {
+    "id": "devfolio-2-1792061235802",
+    "title": "Hack For Tomorrow 2026",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hft2026.devfolio.co/"
+  },
+  {
+    "id": "devfolio-3-1792061235803",
+    "title": "Arkiv: Global Tour Stop 🌍",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://arkiv.devfolio.co/"
+  },
+  {
+    "id": "devfolio-4-1792061235803",
+    "title": "Srijan Setu",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://srijan-setu.devfolio.co/"
+  },
+  {
+    "id": "devfolio-5-1792061235804",
+    "title": "Hackman X",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hackman-x.devfolio.co/"
+  },
+  {
+    "id": "devfolio-6-1792061235804",
+    "title": "HACKER HOUSE GOA 2026",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hacker-house-goa-2026.devfolio.co/"
+  },
+  {
+    "id": "devfolio-7-1792061235805",
+    "title": "Cognition 2026",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://cognition-2026.devfolio.co/"
+  },
+  {
+    "id": "devfolio-8-1792061235805",
+    "title": "Syntax Error 2026",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://syntax-error-6.devfolio.co/"
+  },
+  {
+    "id": "devfolio-9-1792061235806",
+    "title": "Innosprint2.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://innosprint-3.devfolio.co/"
+  },
+  {
+    "id": "devfolio-10-1792061235807",
+    "title": "Version Beta 9.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://version-beta-9.devfolio.co/"
+  },
+  {
+    "id": "devfolio-11-1792061235808",
+    "title": "TUM Blockchain & AI Hackathon",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://tum.devfolio.co/"
+  },
+  {
+    "id": "devfolio-12-1792061235809",
+    "title": "Hacknauts 2.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hacknauts26.devfolio.co/"
+  },
+  {
+    "id": "devfolio-13-1792061235814",
+    "title": "hackodisha-6.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hackodisha-6a.devfolio.co/"
+  },
+  {
+    "id": "devfolio-14-1792061235814",
+    "title": "haxfinity",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://haxfinity.devfolio.co/"
+  },
+  {
+    "id": "devfolio-15-1792061235815",
+    "title": "GeNarrative Clash",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://genarrative-clash.devfolio.co/"
+  },
+  {
+    "id": "devfolio-16-1792061235815",
+    "title": "DevNexus 2.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://devnexus2.devfolio.co/"
+  },
+  {
+    "id": "devfolio-17-1792061235815",
+    "title": "HACK WITH GDG S4",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hack-with-gdg-s4.devfolio.co/"
+  },
+  {
+    "id": "devfolio-18-1792061235816",
+    "title": "Lean In Hacks 8.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://lean-in-hacks-8.devfolio.co/"
+  },
+  {
+    "id": "devfolio-19-1792061235816",
+    "title": "AgentVerse",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://agentverse.devfolio.co/"
+  },
+  {
+    "id": "devfolio-20-1792061235816",
+    "title": "Hack Nexus 2027",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hack-nexus.devfolio.co/"
+  },
+  {
+    "id": "devfolio-21-1792061235817",
+    "title": "HackInverse 1.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hackinverse-s1.devfolio.co/"
+  },
+  {
+    "id": "devfolio-22-1792061235817",
+    "title": "Innohacks 4.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://innohacks-4.devfolio.co/"
+  },
+  {
+    "id": "devfolio-23-1792061235818",
+    "title": "Hackify 3.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hackify-3.devfolio.co/"
+  },
+  {
+    "id": "devfolio-24-1792061235818",
+    "title": "sudo Hacktober",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://sudo-hacktober.devfolio.co/"
   }
 ]
