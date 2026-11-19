@@ -1,6 +1,6 @@
 [
   {
-    "id": "devfolio-0-1795014017394",
+    "id": "devfolio-0-1795100964572",
     "title": "Lean In Hacks 8.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -13,20 +13,7 @@
     "link": "https://lean-in-hacks-8.devfolio.co/"
   },
   {
-    "id": "devfolio-1-1795014017394",
-    "title": "DevNexus 2.0",
-    "desc": "Hackathon",
-    "date": "Check website for dates",
-    "mode": "Online",
-    "location": "India",
-    "sectorTags": [
-      "Technology"
-    ],
-    "organiser": "Devfolio",
-    "link": "https://devnexus2.devfolio.co/"
-  },
-  {
-    "id": "devfolio-2-1795014017394",
+    "id": "devfolio-1-1795100964573",
     "title": "CODEFESTTHON 2026",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -39,7 +26,20 @@
     "link": "https://codefestthon.devfolio.co/"
   },
   {
-    "id": "devfolio-3-1795014017395",
+    "id": "devfolio-2-1795100964573",
+    "title": "DevNexus 2.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://devnexus2.devfolio.co/"
+  },
+  {
+    "id": "devfolio-3-1795100964574",
     "title": "Code N Mod",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -52,20 +52,7 @@
     "link": "https://codenmod.devfolio.co/"
   },
   {
-    "id": "devfolio-4-1795014017395",
-    "title": "MakerSpark",
-    "desc": "Hackathon",
-    "date": "Check website for dates",
-    "mode": "Online",
-    "location": "India",
-    "sectorTags": [
-      "Technology"
-    ],
-    "organiser": "Devfolio",
-    "link": "https://makerspark.devfolio.co/"
-  },
-  {
-    "id": "devfolio-5-1795014017395",
+    "id": "devfolio-4-1795100964574",
     "title": "Founders' House Kolkata",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -78,7 +65,20 @@
     "link": "https://founders-house-kolkata.devfolio.co/"
   },
   {
-    "id": "devfolio-6-1795014017395",
+    "id": "devfolio-5-1795100964574",
+    "title": "MakerSpark",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://makerspark.devfolio.co/"
+  },
+  {
+    "id": "devfolio-6-1795100964575",
     "title": "Clash of Commits",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -91,7 +91,7 @@
     "link": "https://clash-of-commits.devfolio.co/"
   },
   {
-    "id": "devfolio-7-1795014017395",
+    "id": "devfolio-7-1795100964575",
     "title": "Health Hackathon 3.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -104,7 +104,7 @@
     "link": "https://health-hackathon.devfolio.co/"
   },
   {
-    "id": "devfolio-8-1795014017396",
+    "id": "devfolio-8-1795100964575",
     "title": "Hack For Tomorrow 2026",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -117,7 +117,7 @@
     "link": "https://hft2026.devfolio.co/"
   },
   {
-    "id": "devfolio-9-1795014017396",
+    "id": "devfolio-9-1795100964576",
     "title": "ETHChiangmai & Longevity Hackathon 2026",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -130,7 +130,7 @@
     "link": "https://chiangmai.devfolio.co/"
   },
   {
-    "id": "devfolio-10-1795014017396",
+    "id": "devfolio-10-1795100964576",
     "title": "hackodisha-6.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -143,7 +143,7 @@
     "link": "https://hackodisha-6a.devfolio.co/"
   },
   {
-    "id": "devfolio-11-1795014017396",
+    "id": "devfolio-11-1795100964576",
     "title": "haxfinity",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -156,7 +156,7 @@
     "link": "https://haxfinity.devfolio.co/"
   },
   {
-    "id": "devfolio-12-1795014017397",
+    "id": "devfolio-12-1795100964577",
     "title": "Hack Nexus 2027",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -169,7 +169,7 @@
     "link": "https://hack-nexus.devfolio.co/"
   },
   {
-    "id": "devfolio-13-1795014017397",
+    "id": "devfolio-13-1795100964577",
     "title": "Hacksprint 3.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -182,7 +182,7 @@
     "link": "https://hacksprint-3.devfolio.co/"
   },
   {
-    "id": "devfolio-14-1795014017397",
+    "id": "devfolio-14-1795100964578",
     "title": "Innerve 11.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -195,33 +195,7 @@
     "link": "https://innerve-11.devfolio.co/"
   },
   {
-    "id": "devfolio-15-1795014017397",
-    "title": "HACK WITH GDG S4",
-    "desc": "Hackathon",
-    "date": "Check website for dates",
-    "mode": "Online",
-    "location": "India",
-    "sectorTags": [
-      "Technology"
-    ],
-    "organiser": "Devfolio",
-    "link": "https://hack-with-gdg-s4.devfolio.co/"
-  },
-  {
-    "id": "devfolio-16-1795014017398",
-    "title": "Techacks 5.0",
-    "desc": "Hackathon",
-    "date": "Check website for dates",
-    "mode": "Online",
-    "location": "India",
-    "sectorTags": [
-      "Technology"
-    ],
-    "organiser": "Devfolio",
-    "link": "https://techacks05.devfolio.co/"
-  },
-  {
-    "id": "devfolio-17-1795014017398",
+    "id": "devfolio-15-1795100964578",
     "title": "GOA BUILDATHON 27",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -234,7 +208,33 @@
     "link": "https://goa-buildathon.devfolio.co/"
   },
   {
-    "id": "devfolio-18-1795014017398",
+    "id": "devfolio-16-1795100964578",
+    "title": "Techacks 5.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://techacks05.devfolio.co/"
+  },
+  {
+    "id": "devfolio-17-1795100964578",
+    "title": "HACK WITH GDG S4",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://hack-with-gdg-s4.devfolio.co/"
+  },
+  {
+    "id": "devfolio-18-1795100964579",
     "title": "HACK 6.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -247,7 +247,7 @@
     "link": "https://hack-1736.devfolio.co/"
   },
   {
-    "id": "devfolio-19-1795014017398",
+    "id": "devfolio-19-1795100964579",
     "title": "doubleSlash 5.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -260,7 +260,7 @@
     "link": "https://doubleslash5.devfolio.co/"
   },
   {
-    "id": "devfolio-20-1795014017399",
+    "id": "devfolio-20-1795100964580",
     "title": "DevNexus Vidisha",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -273,20 +273,7 @@
     "link": "https://devnexus-3.devfolio.co/"
   },
   {
-    "id": "devfolio-21-1795014017399",
-    "title": "Winter of Code 6.0",
-    "desc": "Hackathon",
-    "date": "Check website for dates",
-    "mode": "Online",
-    "location": "India",
-    "sectorTags": [
-      "Technology"
-    ],
-    "organiser": "Devfolio",
-    "link": "https://woc6.devfolio.co/"
-  },
-  {
-    "id": "devfolio-22-1795014017399",
+    "id": "devfolio-21-1795100964580",
     "title": "CODERAVE 2.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -299,7 +286,20 @@
     "link": "https://coderave-2.devfolio.co/"
   },
   {
-    "id": "devfolio-23-1795014017399",
+    "id": "devfolio-22-1795100964580",
+    "title": "Winter of Code 6.0",
+    "desc": "Hackathon",
+    "date": "Check website for dates",
+    "mode": "Online",
+    "location": "India",
+    "sectorTags": [
+      "Technology"
+    ],
+    "organiser": "Devfolio",
+    "link": "https://woc6.devfolio.co/"
+  },
+  {
+    "id": "devfolio-23-1795100964580",
     "title": "ECLIPSE 7.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -312,7 +312,7 @@
     "link": "https://eclipse.devfolio.co/"
   },
   {
-    "id": "devfolio-24-1795014017399",
+    "id": "devfolio-24-1795100964581",
     "title": "Hacknauts 2.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -325,7 +325,7 @@
     "link": "https://hacknauts26.devfolio.co/"
   },
   {
-    "id": "devfolio-25-1795014017399",
+    "id": "devfolio-25-1795100964581",
     "title": "AgentVerse",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -338,7 +338,7 @@
     "link": "https://agentverse.devfolio.co/"
   },
   {
-    "id": "devfolio-26-1795014017400",
+    "id": "devfolio-26-1795100964581",
     "title": "Hack On Hills 8.0",
     "desc": "Hackathon",
     "date": "Check website for dates",
@@ -351,7 +351,7 @@
     "link": "https://hackonhills8.devfolio.co/"
   },
   {
-    "id": "devfolio-27-1795014017400",
+    "id": "devfolio-27-1795100964581",
     "title": "Surat Hack 2026",
     "desc": "Hackathon",
     "date": "Check website for dates",
